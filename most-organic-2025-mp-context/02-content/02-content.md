@@ -3,22 +3,17 @@ Thanks to our highly experienced team, Most Organic Ltd was registered in 2018, 
 
 # ACTIVITY
 ## RUSSIA
-Services: Energy, Organic, Agriculture, Industry
-
+Services: Energy, Organic, Agriculture, Industry  
 ## UKRAINE
-Services: Organic, Agriculture, Industry
-
+Services: Organic, Agriculture, Industry  
 ## MOLDOVA
-Services: Organic, Agriculture
-
+Services: Organic, Agriculture  
 ## ROMANIA
-Services: Organic, Agriculture
-
+Services: Organic, Agriculture  
 ## BULGARIA
-Services: Energy, Organic, Agriculture, Industry
-
+Services: Energy, Organic, Agriculture, Industry  
 ## TURKEY
-Services: Energy, Organic, Agriculture, Industry
+Services: Energy, Organic, Agriculture, Industry  
 
 # PRODUCTS
 ## Energy
@@ -42,22 +37,19 @@ Services: Energy, Organic, Agriculture, Industry
 
 # SERVICES
 ## Analytics
-Discovery, interpretation, and communication
-
+Discovery, interpretation, and communication  
 ## Market Research
-Organized effort to gather information
-
+Organized effort to gather information  
 ## Trading
-Mutually advantageous solutions
-
+Mutually advantageous solutions  
 ## Logistics
-Detailed organization and implementation
+Detailed organization and implementation  
 
 # PARTNERS
 - Humic-Leonardite.com  
 - Progress *(URL TBD)*  
 - Ceylan Port – Fertilizer Production Plants & Granulation Equipment  
-- RTM Tarım Kimya – Regional Distributors & Animal Feed Specialists
+- RTM Tarım Kimya – Regional Distributors & Animal Feed Specialists  
 
 # CONTACTS
 - **Traian DONCEV** – Founder / CEO – [tdoncev@gmail.com](mailto:tdoncev@gmail.com) – +90 535 614 9521  
